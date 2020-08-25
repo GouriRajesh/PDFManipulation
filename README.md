@@ -1,6 +1,6 @@
 # PDFManipulation
 A python3 project that allows you to rotate, merge and add watermark to pdfs. \
-Makes us of ***PyPDF2*** and ***sys*** module.
+Makes use of ***PyPDF2*** and ***sys*** module.
 
 <h3> How to run the program:</h3>
 
